@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java-io-byte-streaming/java-io-byte-streaming.iml" filepath="$PROJECT_DIR$/java-io-byte-streaming/java-io-byte-streaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-io-charactor-streaming/java-io-charactor-streaming.iml" filepath="$PROJECT_DIR$/java-io-charactor-streaming/java-io-charactor-streaming.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-io-concepts.iml" filepath="$PROJECT_DIR$/java-io-concepts.iml" />
     </modules>
   </component>

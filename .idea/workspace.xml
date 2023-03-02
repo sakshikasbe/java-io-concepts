@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="307cc3ec-de00-4d18-a399-6892560d21f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/java-io-charactor-streaming/java-io-charactor-streaming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-io-charactor-streaming/src/BufferedReaderWriterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-io-charactor-streaming/src/FileReaderWriterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-io-charactor-streaming/src/InputStreamReaderOutputStreamWriterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-io-charactor-streaming/src/StringReaderWriterExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,12 +91,19 @@
       <option name="project" value="LOCAL" />
       <updated>1675786009555</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update java-io-concepts">
+      <created>1677773385417</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677773385417</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update java-io-concepts" />
     <MESSAGE value="update java-io-conceptss" />
-    <option name="LAST_COMMIT_MESSAGE" value="update java-io-conceptss" />
+    <MESSAGE value="update java-io-concepts" />
+    <option name="LAST_COMMIT_MESSAGE" value="update java-io-concepts" />
   </component>
 </project>
